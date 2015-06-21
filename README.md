@@ -1,5 +1,5 @@
 # GDPVis_Slidify
-data product 
+
 1. GDPVIs is a straitforward data visualization app developed for displaying economics data for all countries and areas.
 
 2. The App is built by R, mainly by shiny, slidify, and GoogleVis
